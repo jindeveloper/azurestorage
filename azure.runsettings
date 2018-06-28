@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="AzureStorageAccount"   value="buds"/>
+    <Parameter name="AzureStorageKey" value="Ugj2lCn1lIdX8p+JTB/qf5o8N2KxvKoWA0I8XwaErQqLV83IybnRJAl8GOsckK/Ivzt4/5O9EJyLuJsYSyKB3g=="/>
+  </TestRunParameters>
+  
+</RunSettings>
